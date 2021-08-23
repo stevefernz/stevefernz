@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stevefernz
+- 👋 Hi, I’m ***@stevefernz***
 - 👀 I’m interested in all things related to tech
 - 🌱 I’m currently learning **Computer Science**
 - 💞️ Currently I'm a solo student right now
