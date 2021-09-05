@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ***@stevefernz***
 - 👀 I’m interested in all things related to tech
 - 🌱 I’m currently learning **Computer Science**
-- 💞️ Currently I'm a solo student right now
+- 💞️ I'm an undergraduate CS student right now
 - 📫 You can reach me via my *email*
 
 <!---
