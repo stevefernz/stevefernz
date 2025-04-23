@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ***@stevefernz***
+- 👋 Hi, I’m ***Steve Fernandez (@stevefernz)***
 - 👀 I’m interested in all things related to **tech and content writing**
 - 🌱 I’m currently learning **Web Developement**
 - 💞️ I'm an **English & Communicative Enlgish** undergraduate
